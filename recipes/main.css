@@ -1,0 +1,50 @@
+#rk {
+	width: 500px;
+}
+
+body {
+	background-color: aquamarine;
+}
+
+.container {
+	border: 10px solid olive;
+	background-color: bisque;
+	width: 500px;
+	/*border: 5px solid red;*/
+	margin: 0 auto;
+}
+
+.container2 {
+	border: 10px solid brown;
+	position: relative;
+	width: 500px;
+	margin: 0 auto;
+	background-color: blanchedalmond;
+}
+
+h1 {
+	text-align: center;
+	font-size: 32px;
+	font-family: "Dancing Script", cursive;
+}
+h2 {
+	text-align: center;
+	font-size: 26px;
+	font-family: "Dancing Script", cursive;
+}
+h3 {
+	text-align: center;
+	font-family: "Dancing Script", cursive;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 22px;
+}
+p,
+li,
+a {
+	font-family: "Noto Sans", sans-serif;
+	font-optical-sizing: auto;
+
+	font-style: normal;
+	font-variation-settings: "wdth" 100;
+}
